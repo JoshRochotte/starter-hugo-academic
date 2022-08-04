@@ -27,7 +27,7 @@ item:
     date_end: ''
     date_start: '2022-08-01'
     description: ''
-    organization: Coursera
+    organization: Geek Therapeutics
     organization_url: https://geektherapeutics.com/
     title: Therapeutic Game Master
     url: ''
@@ -36,8 +36,8 @@ item:
     date_start: '2021-09-01'
     # description: Formulated informed blockchain models, hypotheses, and use cases.
     organization: Prodct School
-    organization_url: hhttps://productschool.com/
-    title: Blockchain Fundamentals
+    organization_url: https://productschool.com/
+    title: Product Management Certificate
     url: https://productschool.com/
   - certificate_url: https://www.datacamp.com
     date_end: '2020-12-21'
