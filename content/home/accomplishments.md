@@ -30,7 +30,8 @@ item:
     organization: Geek Therapeutics
     organization_url: https://geektherapeutics.com/
     title: Therapeutic Game Master
-    url: ''
+    url: https://geektherapeutics.com/
+    
   - certificate_url: https://certificate.productschool.com/c78606fb-7b67-4baf-896b-e8062c8cf89f#gs.88xes0
     date_end: ''
     date_start: '2021-09-01'
@@ -51,7 +52,7 @@ item:
     
   - certificate_url: https://bcert.me/bc/html/show-badge.html?b=pputvxnl
     date_end: ''
-    date_start: '2021-09-01'
+    date_start: '2021-04-01'
     # description: Formulated informed blockchain models, hypotheses, and use cases.
     organization: Scrum Alliance
     organization_url: https://www.scrumalliance.org/
