@@ -73,16 +73,6 @@ experience:
     description: |2-
         Responsibilities include:
         
-  - title: Professional Services Associate
-    company: Medidata Solutions
-    company_url: ''
-    company_logo: org-gc
-    location: New York
-    date_start: '2021-03-01'
-    date_end: '2022-04-01'
-    description: |2-
-        Responsibilities include: 
-        
 design:
   columns: '2'
 ---
