@@ -35,22 +35,22 @@ organizations:
     url: https://www.medidata.com/
 education:
   courses:
-    - course: PhD in Information Science (In Progress)
+    - course: PhD, Information Science (In Progress)
       institution: Rutgers University
       year: ""
-    - course: MI in Data Science and Technology Information and Management (TIM)
+    - course: MI, Data Science
       institution: Rutgers University
       year: 2018
-    - course: BA in Information Technology and Informatics
+    - course: BA, Information Technology and Informatics
       institution: Rutgers University
       year: 2017
-    - course: BA in Psychology
+    - course: BA, Psychology
       institution: Rutgers University
       year: 2017
 email: ""
 superuser: true
 highlight_name: true
 ---
-Joshua Rochotte is a Ph.D. Student in Information Science at the Rutgers University School of Communication and Information. His research interests include Human Centered Data Science, Computational Social Science, Recommendation Systems, Coopetition and Homophily. Josh is also a Product Manager at Medidata Solutions, providing AI and ML driven data reconciliation tools to data managers and central monitors in clinical trials.
+Josh Rochotte is a Ph.D. student in Information Science at the Rutgers University School of Communication and Information. His research interests include Human Centered Data Science, Computational Social Science, Recommendation Systems and Coopetition. Josh is also a Product Manager at Medidata Solutions, providing AI and ML driven data reconciliation tools to data managers and central monitors in clinical trials.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Josh_Resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
