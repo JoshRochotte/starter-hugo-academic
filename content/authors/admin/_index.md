@@ -2,8 +2,8 @@
 title: Josh Rochotte
 role: Phd Student in Information Science
 avatar_filename: jpj09896.jpg
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: My research interests include Human Centered Data Science, Computational
+  Social Science and Gamification
 interests:
   - Human Centered Data Science
   - Computational Social Science
