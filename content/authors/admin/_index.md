@@ -51,6 +51,6 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-Joshua Rochotte is a Ph.D. Student in Communication Information and Media at the Rutgers University School of Communication and Information. His research interests include Human Centered Data Science, Computational Social Science, Recommendation Systems, Coopetition and Homophily. Josh is also a Product Manager at Medidata Solutions.
+Joshua Rochotte is a Ph.D. Student in Communication Information and Media at the Rutgers University School of Communication and Information. His research interests include Human Centered Data Science, Computational Social Science, Recommendation Systems, Coopetition and Homophily. Josh is also a Product Manager at Medidata Solutions, providing AI and ML driven data reconciliation tools to data managers and central monitors in clinical trials.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Josh_Resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
