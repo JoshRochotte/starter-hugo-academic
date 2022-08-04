@@ -13,7 +13,7 @@ tags:
 links:
   - icon: Webpage
     icon_pack: ai
-    name: Follow
+    name: Website
     url: https://www.medidata.com/en/clinical-trial-products/clinical-operations/rbqm/centralized-statistical-monitoring
 image:
   caption: ""
