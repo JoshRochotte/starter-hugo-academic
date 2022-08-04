@@ -35,18 +35,28 @@ item:
     date_end: ''
     date_start: '2021-09-01'
     # description: Formulated informed blockchain models, hypotheses, and use cases.
-    organization: Prodct School
+    organization: Product School
     organization_url: https://productschool.com/
     title: Product Management Certificate
     url: https://productschool.com/
-  - certificate_url: https://www.datacamp.com
-    date_end: '2020-12-21'
-    date_start: '2020-07-01'
-    description: ''
-    organization: DataCamp
-    organization_url: https://www.datacamp.com
-    title: 'Object-Oriented Programming in R'
-    url: ''
+
+  - certificate_url: https://www.credly.com/badges/73bbc21c-c8a6-4c8d-8cc9-4eb6529c5e3e
+    date_end: ''
+    date_start: '2021-08-01'
+    # description:
+    organization: Coursera
+    organization_url: https://images.credly.com/size/680x680/images/d41de2b7-cbc2-47ec-bcf1-ebecbe83872f/GCC_badge_DA_1000x1000.png
+    title: Google Data Analytics Certificate
+    url: https://www.credly.com/badges/73bbc21c-c8a6-4c8d-8cc9-4eb6529c5e3e
+    
+  - certificate_url: https://bcert.me/bc/html/show-badge.html?b=pputvxnl
+    date_end: ''
+    date_start: '2021-09-01'
+    # description: Formulated informed blockchain models, hypotheses, and use cases.
+    organization: Scrum Alliance
+    organization_url: https://www.scrumalliance.org/
+    title: Advanced Certified Scrum Product Owner
+    url: https://bcert.me/spputvxnl
 
 design:
   columns: '2'
