@@ -1,6 +1,7 @@
 ---
-title: Nelson Bighetti
-role: Professor of Artificial Intelligence
+title: Josh Rochotte
+role: Phd Student in Information Science
+avatar_filename: jpj09896.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
