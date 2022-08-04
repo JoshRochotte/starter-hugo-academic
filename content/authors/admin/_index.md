@@ -19,7 +19,7 @@ social:
     link: https://twitter.com/joshRochotte
   - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.co
   - icon: github
     icon_pack: fab
     link: https://github.com/
