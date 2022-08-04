@@ -26,7 +26,7 @@ experience:
   - title: Product Manager II
     company: Medidata Solutions
     company_url: ''
-    company_logo: org-gc
+    company_logo: Medidata
     location: New York
     date_start: '2022-04-01'
     date_end: ''
@@ -43,7 +43,7 @@ experience:
     description: |2-
         Responsibilities include: 
         
-  - title: Product Manager II
+  - title: Product Owner
     company: Medidata Solutions
     company_url: ''
     company_logo: org-gc
@@ -53,7 +53,7 @@ experience:
     description: |2-
         Responsibilities include:
         
-  - title: Product Manager, Digital Oversight
+  - title: Implementation Consultant
     company: Medidata Solutions
     company_url: ''
     company_logo: org-gc
@@ -62,6 +62,27 @@ experience:
     date_end: '2022-04-01'
     description: |2-
         Responsibilities include: 
+ 
+ - title: Associate Implementation Consultant
+    company: Medidata Solutions
+    company_url: ''
+    company_logo: org-gc
+    location: New York
+    date_start: '2022-04-01'
+    date_end: ''
+    description: |2-
+        Responsibilities include:
+        
+  - title: Professional Services Associate
+    company: Medidata Solutions
+    company_url: ''
+    company_logo: org-gc
+    location: New York
+    date_start: '2021-03-01'
+    date_end: '2022-04-01'
+    description: |2-
+        Responsibilities include: 
+        
 design:
   columns: '2'
 ---
