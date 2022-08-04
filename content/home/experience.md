@@ -43,6 +43,25 @@ experience:
     description: |2-
         Responsibilities include: 
         
+  - title: Product Manager II
+    company: Medidata Solutions
+    company_url: ''
+    company_logo: org-gc
+    location: New York
+    date_start: '2022-04-01'
+    date_end: ''
+    description: |2-
+        Responsibilities include:
+        
+  - title: Product Manager, Digital Oversight
+    company: Medidata Solutions
+    company_url: ''
+    company_logo: org-gc
+    location: New York
+    date_start: '2021-03-01'
+    date_end: '2022-04-01'
+    description: |2-
+        Responsibilities include: 
 design:
   columns: '2'
 ---
