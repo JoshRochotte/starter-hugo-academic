@@ -1,7 +1,8 @@
 ---
 slides: example
 url_pdf: ""
-summary: An example of using the in-built project page.
+summary: THE POWER OF MULTI-DIMENSIONAL OVERSIGHT TO IMPROVE YOUR STUDY DATA
+  QUALITY AND ENSURE PATIENT SAFETY
 url_video: ""
 date: 2022-08-04T04:09:36.241Z
 external_link: ""
