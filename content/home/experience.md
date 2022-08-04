@@ -80,9 +80,8 @@ experience:
     date_start: '2017-07-5'
     date_end: '2017-12-15'
     description: |2-
-        Responsibilities include:         
+        Responsibilities include:  
         
-
 design:
   columns: '2'
 ---
