@@ -36,7 +36,7 @@ experience:
   - title: Product Manager, Digital Oversight
     company: Medidata Solutions
     company_url: ''
-    company_logo: org-gc
+    company_logo: medidata
     location: New York
     date_start: '2021-03-01'
     date_end: '2022-04-01'
@@ -46,23 +46,32 @@ experience:
   - title: Product Owner
     company: Medidata Solutions
     company_url: ''
-    company_logo: org-gc
+    company_logo: medidata
     location: New York
-    date_start: '2022-04-01'
-    date_end: ''
+    date_start: '2020-03-01'
+    date_end: '2021-03-01'
     description: |2-
         Responsibilities include:
         
   - title: Implementation Consultant
     company: Medidata Solutions
     company_url: ''
-    company_logo: org-gc
+    company_logo: medidata
     location: New York
-    date_start: '2021-03-01'
-    date_end: '2022-04-01'
+    date_start: '2019-01-01'
+    date_end: '2020-03-01'
     description: |2-
         Responsibilities include: 
         
+  - title: Associate Implementation Consultant
+    company: Medidata Solutions
+    company_url: ''
+    company_logo: medidata
+    location: New York
+    date_start: '2017-12-01'
+    date_end: '2019-01-01'
+    description: |2-
+        Responsibilities include:         
 design:
   columns: '2'
 ---
