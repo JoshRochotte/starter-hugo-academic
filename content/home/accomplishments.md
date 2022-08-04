@@ -10,7 +10,7 @@ headless: true
 weight: 50
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-title: 'Accomplish&shy;ments'
+title: 'Certifications'
 subtitle:
 
 # Date format
@@ -23,22 +23,22 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-  - certificate_url: https://www.coursera.org
+  - certificate_url: https://education.geektherapeutics.com/certificates/o1pek0m9ua
     date_end: ''
-    date_start: '2021-01-25'
+    date_start: '2022-08-01'
     description: ''
     organization: Coursera
-    organization_url: https://www.coursera.org
-    title: Neural Networks and Deep Learning
+    organization_url: https://geektherapeutics.com/
+    title: Therapeutic Game Master
     url: ''
-  - certificate_url: https://www.edx.org
+  - certificate_url: https://certificate.productschool.com/c78606fb-7b67-4baf-896b-e8062c8cf89f#gs.88xes0
     date_end: ''
-    date_start: '2021-01-01'
-    description: Formulated informed blockchain models, hypotheses, and use cases.
-    organization: edX
-    organization_url: https://www.edx.org
+    date_start: '2021-09-01'
+    # description: Formulated informed blockchain models, hypotheses, and use cases.
+    organization: Prodct School
+    organization_url: hhttps://productschool.com/
     title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+    url: https://productschool.com/
   - certificate_url: https://www.datacamp.com
     date_end: '2020-12-21'
     date_start: '2020-07-01'
