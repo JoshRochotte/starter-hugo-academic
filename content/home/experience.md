@@ -26,7 +26,7 @@ experience:
   - title: Product Manager II
     company: Medidata Solutions
     company_url: ''
-    company_logo: org-gc
+    company_logo: medidata
     location: New York
     date_start: '2022-04-01'
     date_end: ''
