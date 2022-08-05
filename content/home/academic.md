@@ -10,14 +10,6 @@ experience:
     date_start: 2018-01-01
     date_end: 2018-05-15
     description: "Course TA for Retrieving and Evaluating Information 04:547:220"
-    - title: Research Assistant
-    company: Rutgers, The State University of New Jersey
-    company_url: ""
-    company_logo: rutgers
-    location: New Jersey
-    date_start: 2017-01-01
-    date_end: 2018-05-15
-    description: "Researcher studying Digital Homophily in Competitive Scenarios in Dr Vivek Singhs Behavioral Informatics Lab"
 widget_id: Academic Experience
 headless: true
 weight: 30
