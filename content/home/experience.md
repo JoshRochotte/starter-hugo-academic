@@ -18,15 +18,13 @@ experience:
     date_start: 2021-03-01
     date_end: 2022-04-01
     description: "Promoted to my current role within 12 months because of top performance and strong organizational impact, I support product owners and teams across east and west coast US, as well as in India. I lead and drive a platform of AI/ML driven data and risk surveillance technology products used by clinical trial teams to monitor clinical trials. 
-
-===========================================
-
+<br>
 Select Highlights
-
+<br>
 ▻ Overhauled product strategy by delivering an effective presentation of strategic goals to engineering and product organization that advanced swift breakdown and restored backlogs for engineering teams. 
-
+<br>
 ▻ Recommended alternative methods of system configuration to avoid need for high level of effort (LOE) engineering enhancements to legacy software system, shielding our customer from increased engineering costs. 
-
+<br>
 ▻ Worked closely with development team in an Agile SCRUM environment to refine, prioritize and support the development, testing, and release of functionality. "
   - title: Product Owner
     company: Medidata Solutions
