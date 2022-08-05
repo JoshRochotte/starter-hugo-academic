@@ -33,7 +33,7 @@ experience:
     location: New Jersey
     date_start: 2016-05-01
     date_end: 2016-08-30
-    description: "Document Coder"
+    description: "Document Coder for EPIK Research Project under Dr Weber and Dr Yanovitzky"
 widget_id: Academic Experience
 headless: true
 weight: 30
