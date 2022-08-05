@@ -42,10 +42,10 @@ experience:
     date_start: 2017-12-01
     date_end: 2019-01-01
     description: "  Responsibilities include:         "
-widget_id: Professional Experience
+widget_id: Academic Experience
 headless: true
-weight: 40
-title: Professional Experience
+weight: 30
+title: Academic Experience
 subtitle: null
 design:
   columns: "2"
