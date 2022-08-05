@@ -1,6 +1,6 @@
 ---
 widget: Experience
-widget_id: Professional Experience
+widget_id: Academic and Teaching Experience
 headless: true
 weight: 45
 active: true
