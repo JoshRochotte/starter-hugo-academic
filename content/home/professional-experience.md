@@ -2,7 +2,7 @@
 widget: Experience
 widget_id: Academic and Teaching Experience
 headless: true
-weight: 45
+weight: 120
 active: true
 design:
   columns: "2"
