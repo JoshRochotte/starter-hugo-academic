@@ -38,14 +38,14 @@ content:
     - 'Evenings 6:00pm to 10:00pm'
   appointment_url: 'https://calendly.com/joshrochotte'
   contact_links:
-   # - icon: twitter
-      icon_pack: fab
-      name: DM Me
-      link: 'https://twitter.com/Twitter'
-    - icon: video
-      icon_pack: fas
-      name: Zoom Me
-      link: 'https://zoom.com'
+   #- icon: twitter
+     # icon_pack: fab
+     # name: DM Me
+     # link: 'https://twitter.com/Twitter'
+    #- icon: video
+     # icon_pack: fas
+     # name: Zoom Me
+     # link: 'https://zoom.com'
 
 design:
   columns: '2'
