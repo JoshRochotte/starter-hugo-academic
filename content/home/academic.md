@@ -1,5 +1,6 @@
 ---
 widget: experience
+active: true
 date_format: Jan 2006
 experience:
   - title: Product Manager II
@@ -20,9 +21,8 @@ experience:
     description: "  Responsibilities include: "
 widget_id: Academic
 headless: true
-weight: 100
+weight: 30
 title: Academic Experience
-active: true
 design:
   columns: "2"
 ---
