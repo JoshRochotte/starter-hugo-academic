@@ -30,8 +30,7 @@ links:
     url: https://xtalks.com/digital-technologies-quality-and-fit-for-purpose-key-changes-in-the-ich-e6r3-good-clinical-practice-2776/
 publishDate: 2022-08-05T15:21:10.684Z
 tags: []
-projects:
-  - example
+projects: []
 image:
   caption: ""
   focal_point: Right
