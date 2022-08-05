@@ -9,7 +9,7 @@ abstract: Our industry is eager to learn what changes are included in ICH E6
   protecting patients. The focus of this webinar is how sponsors, CROs and sites
   can focus on quality factors at the time of trial design and prepare for these
   new rules.
-slides: example
+slides: ""
 url_pdf: ""
 summary: Preparing for ICH E6 (R3) Good Clinical Practice Changes
 title: Preparing for ICH E6 (R3) Good Clinical Practice Changes
