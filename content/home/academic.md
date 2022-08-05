@@ -8,17 +8,17 @@ experience:
     company_url: ""
     company_logo: rutgers
     location: New Jersey
-    date_start: '2017-01-01'
-    date_end: '2018-05-15'
+    date_start: 2017-01-01
+    date_end: 2018-05-15
     description: "Researcher studying Digital Homophily in Competitive Scenarios in Dr Vivek Singh's Behavioral Informatics Lab"
   - title: Teaching Assistant
     company: Rutgers, The State University of New Jersey
     company_url: ""
     company_logo: rutgers
     location: New Jersey
-    date_start: '2017-01-01'
-    date_end: '2017-12-31'
-    description: "Course TA for Information: Policies, Politics, and Power 04:547:400 <br>Course TA for 3 sections of Object Oriented Programming 04:547:202"
+    date_start: 2017-01-01
+    date_end: 2017-12-30
+    description: "Course TA for Information: Policies, Politics, and Power 04:547:400 <br> Course TA for 3 sections of Object Oriented Programming 04:547:202"
 widget_id: Academic
 headless: true
 weight: 30
