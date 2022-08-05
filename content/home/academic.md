@@ -1,5 +1,6 @@
 ---
 widget: experience
+date_format: Jan 2006
 experience:
   - title: Product Manager II
     company: Medidata Solutions
