@@ -2,26 +2,51 @@
 widget: experience
 date_format: Jan 2006
 experience:
-   - title: Research Assistant
-    company: Rutgers, The State University of New Jersey
+  - title: Product Manager II
+    company: Medidata Solutions
     company_url: ""
-    company_logo: rutgers
-    location: New Jersey
-    date_start: 2017-01-01
-    date_end: 2018-05-15
-    description: "Researcher studying Digital Homophily in Competitive Scenarios in Dr Vivek Singh's Behavioral Informatics Lab"
-   - title: Teaching Assistant
-    company: Rutgers, The State University of New Jersey
+    company_logo: medidata
+    location: New York
+    date_start: 2022-04-01
+    date_end: ""
+    description: "  Responsibilities include:"
+  - title: Product Manager, Digital Oversight
+    company: Medidata Solutions
     company_url: ""
-    company_logo: rutgers
-    location: New Jersey
-    date_start: 2017-01-01
-    date_end: 2017-12-30
-    description: "Course TA for Information: Policies, Politics, and Power 04:547:400 <br> Course TA for 3 sections of Object Oriented Programming 04:547:202"
-widget_id: Academic
+    company_logo: medidata
+    location: New York
+    date_start: 2021-03-01
+    date_end: 2022-04-01
+    description: "  Responsibilities include: "
+  - title: Product Owner
+    company: Medidata Solutions
+    company_url: ""
+    company_logo: medidata
+    location: New York
+    date_start: 2020-03-01
+    date_end: 2021-03-01
+    description: "  Responsibilities include:"
+  - title: Implementation Consultant
+    company: Medidata Solutions
+    company_url: ""
+    company_logo: medidata
+    location: New York
+    date_start: 2019-01-01
+    date_end: 2020-03-01
+    description: "  Responsibilities include: "
+  - title: Associate Implementation Consultant
+    company: Medidata Solutions
+    company_url: ""
+    company_logo: medidata
+    location: New York
+    date_start: 2017-12-01
+    date_end: 2019-01-01
+    description: "  Responsibilities include:         "
+widget_id: Professional Experience
 headless: true
-weight: 30
-title: Academic Experience
+weight: 40
+title: Professional Experience
+subtitle: null
 design:
   columns: "2"
 ---
