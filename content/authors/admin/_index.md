@@ -9,7 +9,7 @@ interests:
   - Computational Social Science
   - Recommendation Systems
   - Coopetition
-  - Homophily
+  - Homophily & Heterophily
 social:
   - icon: envelope
     icon_pack: fas
