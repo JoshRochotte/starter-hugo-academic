@@ -2,7 +2,7 @@
 widget: Experience
 widget_id: Professional Experience
 headless: true
-weight: 10
+weight: 45
 active: true
 design:
   columns: "2"
