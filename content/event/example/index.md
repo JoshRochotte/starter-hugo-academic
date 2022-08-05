@@ -11,7 +11,7 @@ abstract: Our industry is eager to learn what changes are included in ICH E6
   new rules.
 slides: example
 url_pdf: ""
-summary: An example talk using Wowchemy's Markdown slides feature.
+summary: Preparing for ICH E6 (R3) Good Clinical Practice Changes
 title: Preparing for ICH E6 (R3) Good Clinical Practice Changes
 location: XTalks
 date: 2021-06-08T13:00:00.000Z
@@ -23,12 +23,6 @@ featured: false
 authors: []
 url_video: ""
 url_slides: ""
-address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: "94305"
-  country: United States
 links:
   - icon: TV
     icon_pack: fab
