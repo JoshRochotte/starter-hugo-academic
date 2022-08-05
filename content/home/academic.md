@@ -18,8 +18,8 @@ experience:
     location: New Jersey
     date_start: 2017-01-01
     date_end: 2017-12-31
-    description: "Course TA for Information: Policies, Politics, and Power 04:547:400" <br> </br>
-    "3 sections of Object Oriented Programming 04:547:202"
+    description: "Course TA for Information: Policies, Politics, and Power 04:547:400" <br>
+    "Course TA for 3 sections of Object Oriented Programming 04:547:202"
 widget_id: Academic
 headless: true
 weight: 30
