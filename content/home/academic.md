@@ -2,46 +2,30 @@
 widget: experience
 date_format: Jan 2006
 experience:
-  - title: Product Manager II
-    company: Medidata Solutions
+    - title: Teaching Assistant
+    company: Rutgers, The State University of New Jersey
     company_url: ""
-    company_logo: medidata
-    location: New York
-    date_start: 2022-04-01
-    date_end: ""
-    description: "  Responsibilities include:"
-  - title: Product Manager, Digital Oversight
-    company: Medidata Solutions
+    company_logo: rutgers
+    location: New Jersey
+    date_start: 2018-01-01
+    date_end: 2018-05-15
+    description: "Course TA for Retrieving and Evaluating Information 04:547:220"
+    - title: Coadjutant Casual
+    company: Rutgers, The State University of New Jersey
     company_url: ""
-    company_logo: medidata
-    location: New York
-    date_start: 2021-03-01
-    date_end: 2022-04-01
-    description: "  Responsibilities include: "
-  - title: Product Owner
-    company: Medidata Solutions
+    company_logo: rutgers
+    location: New Jersey
+    date_start: 2016-05-01
+    date_end: 2016-08-30
+    description: "Document Coder for EPIK Research Project under Dr's Weber and Yanovitzky"
+  - title: Teaching Assistant
+    company: Rutgers, The State University of New Jersey
     company_url: ""
-    company_logo: medidata
-    location: New York
-    date_start: 2020-03-01
-    date_end: 2021-03-01
-    description: "  Responsibilities include:"
-  - title: Implementation Consultant
-    company: Medidata Solutions
-    company_url: ""
-    company_logo: medidata
-    location: New York
-    date_start: 2019-01-01
-    date_end: 2020-03-01
-    description: "  Responsibilities include: "
-  - title: Associate Implementation Consultant
-    company: Medidata Solutions
-    company_url: ""
-    company_logo: medidata
-    location: New York
-    date_start: 2017-12-01
-    date_end: 2019-01-01
-    description: "  Responsibilities include:         "
+    company_logo: rutgers
+    location: New Jersey
+    date_start: 2017-01-01
+    date_end: 2017-12-31
+    description: "Course TA for Information: Policies, Politics, and Power 04:547:400 <br>Course TA for 3 sections of Object Oriented Programming 04:547:202"
 widget_id: Academic Experience
 headless: true
 weight: 30
