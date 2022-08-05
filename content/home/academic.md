@@ -18,7 +18,7 @@ experience:
     date_start: 2016-05-01
     date_end: 2016-08-30
     description: "Document Coder for EPIK Research Project under Dr's Weber and Yanovitzky"
-  - title: Teaching Assistant
+    - title: Teaching Assistant
     company: Rutgers, The State University of New Jersey
     company_url: ""
     company_logo: rutgers
