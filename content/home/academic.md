@@ -17,8 +17,6 @@ experience:
     location: New Jersey
     date_start: 2017-01-01
     date_end: 2018-05-15
-    date_start: '2017-01-01'
-    date_end: '2018-05-15'
     description: "Researcher studying Digital Homophily in Competitive Scenarios in Dr Vivek Singh's Behavioral Informatics Lab"
     - title: Teaching Assistant
     company: Rutgers, The State University of New Jersey
