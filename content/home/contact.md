@@ -35,11 +35,10 @@ content:
    # country: United States
    # country_code: US
   office_hours:
-    - 'Monday 10:00 to 13:00'
-    - 'Wednesday 09:00 to 10:00'
-  appointment_url: 'https://calendly.com'
+    - 'Evenings 6:00pm to 10:00pm'
+  appointment_url: 'https://calendly.com/joshrochotte'
   contact_links:
-    - icon: twitter
+   # - icon: twitter
       icon_pack: fab
       name: DM Me
       link: 'https://twitter.com/Twitter'
