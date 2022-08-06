@@ -2,8 +2,8 @@
 title: Josh Rochotte
 role: Ph.D. Student in Information Science
 avatar_filename: avatar.png
-bio: My research interests include Human Centered Data Science, Computational
-  Social Science and Gamification
+bio: Computational Social Scientist - AI/ML Product Manager - Therapeutic Game
+  Master - Certified Nerd - Infinitely Curious
 interests:
   - Human Centered Data Science
   - Computational Social Science
