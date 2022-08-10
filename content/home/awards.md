@@ -8,13 +8,16 @@ active: true
 design:
   columns: "2"
   background:
-    text_color_light: false
-    image_darken: 0
 ---
-
+<h3>Awards</h3>
 <dl>
-  <dt>Coffee</dt>
-  <dd>- black hot drink</dd>
-  <dt>Milk</dt>
-  <dd>- white cold drink</dd>
+  <dt>Ph.D. Program in LIS Award</dt>
+  <dd>- Issued by SC&I Library and Information Science Faculty Scholarship Committee, Aug 2022</dd>
+  <dt>Tefko Endowed Fund for Doctoral Students Award</dt>
+  <dd>- Issued by SC&I Library and Information Science Faculty Scholarship Committee, Aug 2022</dd>
+   <dt>Passionate Encore Award</dt>
+  <dd>- Issued by Medidata Solutions, Aug 2021</dd>
+   <dt>Passionate Encore Award</dt>
+  <dd>- Issued by Medidata Solutions, Jan 2021</dd>
 </dl>
+<h3>Affiliations</h3>
