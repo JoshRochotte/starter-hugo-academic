@@ -11,11 +11,10 @@ design:
     text_color_light: false
     image_darken: 0
 ---
-```html
+
 <dl>
   <dt>Coffee</dt>
   <dd>- black hot drink</dd>
   <dt>Milk</dt>
   <dd>- white cold drink</dd>
 </dl>
-```
