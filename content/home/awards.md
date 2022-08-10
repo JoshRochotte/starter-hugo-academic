@@ -3,7 +3,7 @@ widget: blank
 widget_id: Awards
 headless: true
 weight: 35
-title: Affiliations and Awards
+title: Awards
 active: true
 design:
   columns: "2"
