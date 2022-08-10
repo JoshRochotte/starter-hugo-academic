@@ -20,4 +20,3 @@ design:
    <dt>Passionate Encore Award</dt>
   <dd>- Issued by Medidata Solutions, Jan 2021</dd>
 </dl>
-<h3>Affiliations</h3>
