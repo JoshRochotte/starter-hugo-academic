@@ -53,11 +53,18 @@ item:
   - certificate_url: https://bcert.me/bc/html/show-badge.html?b=pputvxnl
     date_end: ''
     date_start: '2021-04-01'
-    # description: Formulated informed blockchain models, hypotheses, and use cases.
     organization: Scrum Alliance
     organization_url: https://www.scrumalliance.org/
     title: Advanced Certified Scrum Product Owner
     url: https://bcert.me/spputvxnl
+    
+  - certificate_url: https://bcert.me/sypqqkevx
+    date_end: ''
+    date_start: '2020-03-01'
+    organization: Scrum Alliance
+    organization_url: https://www.scrumalliance.org/
+    title: Certified Scrum Product Owner
+    url: https://bcert.me/sypqqkevx
 
 design:
   columns: '2'
