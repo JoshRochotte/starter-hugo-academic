@@ -10,6 +10,7 @@ interests:
   - Recommendation Systems
   - Coopetition
   - Homophily & Heterophily
+  - Motivational Information Systems
   - Product Management
   - AI & Machine Learning
 social:
