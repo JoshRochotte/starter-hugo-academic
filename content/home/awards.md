@@ -9,7 +9,6 @@ design:
   columns: "2"
   background:
 ---
-<h3>Awards</h3>
 <dl>
   <dt>Ph.D. Program in LIS Award</dt>
   <dd>- Issued by SC&I Library and Information Science Faculty Scholarship Committee, Aug 2022</dd>
