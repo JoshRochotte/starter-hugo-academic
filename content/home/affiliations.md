@@ -9,7 +9,6 @@ design:
   columns: "2"
   background:
 ---
-<h3>Memberships</h3>
 <dl>
   <dt>Association of Computing Machinery (ACM)</dt>
   <dd>- Student Member Since Aug 2022</dd>
