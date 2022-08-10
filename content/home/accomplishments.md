@@ -66,6 +66,14 @@ item:
     title: Certified Scrum Product Owner
     url: https://bcert.me/sypqqkevx
 
+  - certificate_url: https://www.credly.com/badges/f7f08249-835e-4ba0-ad09-6fbdb81f78f3/public_url
+    date_end: ''
+    date_start: '2017-12-01'
+    organization: rutgers
+    organization_url: https://www.business.rutgers.edu/
+    title: Mini-MBA: BioPharma Innovation
+    url: https://www.credly.com/badges/f7f08249-835e-4ba0-ad09-6fbdb81f78f3/public_url
+
 design:
   columns: '2'
 ---
