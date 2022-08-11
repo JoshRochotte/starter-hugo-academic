@@ -25,7 +25,7 @@ content:
       captcha: false
 
   # Contact details (edit or remove options as required)
-  email: josh.rochotte@Rutgers.edu
+  email: josh.rochotte@rutgers.edu
  # phone: 888 888 88 88
  # address:
   #  street: 450 Serra Mall
@@ -35,7 +35,7 @@ content:
    # country: United States
    # country_code: US
   office_hours:
-    - 'Evenings 6:00pm to 10:00pm'
+    - 'Evenings 5:00pm to 10:00pm'
   appointment_url: 'https://calendly.com/joshrochotte'
   contact_links:
    #- icon: twitter
