@@ -7,9 +7,9 @@ title: Awards
 active: true
 item:
   - organization: SC&I Library and Information Science Faculty Scholarship Committee
-    title: Tefko Endowed Fund for Doctoral Students Award
+    title: Ph.D. Program in LIS Award
     url: ''
-    date_start: '2022-8-01'
+    date_start: '2022-10-01'
     date_end: ''
     description: ''
 design:
