@@ -1,5 +1,5 @@
 ---
-widget: blank
+widget: accomplishments
 widget_id: Awards
 headless: true
 weight: 35
@@ -9,13 +9,10 @@ design:
   columns: "2"
   background:
 ---
-<dl>
-  <dt>Ph.D. Program in LIS Award</dt>
-  <dd>- Issued by SC&I Library and Information Science Faculty Scholarship Committee, Aug 2022</dd>
-  <dt>Tefko Endowed Fund for Doctoral Students Award</dt>
-  <dd>- Issued by SC&I Library and Information Science Faculty Scholarship Committee, Aug 2022</dd>
-   <dt>Passionate Encore Award</dt>
-  <dd>- Issued by Medidata Solutions, Aug 2021</dd>
-   <dt>Passionate Encore Award</dt>
-  <dd>- Issued by Medidata Solutions, Jan 2021</dd>
-</dl>
+item:
+  - organization: SC&I Library and Information Science Faculty Scholarship Committee
+    title: Ph.D. Program in LIS Award
+    url: ''
+    date_start: '2022-10-01'
+    date_end: ''
+    description: ''
