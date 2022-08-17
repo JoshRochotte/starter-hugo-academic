@@ -12,7 +12,6 @@ item:
     date_start: '2022-8-01'
     date_end: ''
     description: ''
-    
 design:
   columns: "2"
   background:
