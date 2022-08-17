@@ -18,16 +18,16 @@ item:
     date_start: '2022-10-01'
     date_end: ''
     description: ''
-  - organization: SC&I Library and Information Science Faculty Scholarship Committee
-    title: Ph.D. Program in LIS Award
+  - organization: Medidata Solutions
+    title: Passionate Encore Award
     url: ''
-    date_start: '2022-10-01'
+    date_start: '2021-08-01'
     date_end: ''
     description: ''
-  - organization: SC&I Library and Information Science Faculty Scholarship Committee
-    title: Ph.D. Program in LIS Award
+  - organization: Medidata Solutions
+    title: Passionate Encore Award
     url: ''
-    date_start: '2022-10-01'
+    date_start: '2021-01-01'
     date_end: ''
     description: ''
 design:
