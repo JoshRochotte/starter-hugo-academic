@@ -10,6 +10,8 @@ design:
   background:
 ---
 <dl>
+   <dt>Institute of Electrical and Electronics Engineers(IEEE)</dt>
+  <dd>- Student Member Since Aug 2022</dd>
   <dt>Association of Computing Machinery (ACM)</dt>
   <dd>- Student Member Since Aug 2022</dd>
   <dt>Out IN Tech</dt>
