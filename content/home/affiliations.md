@@ -1,30 +1,60 @@
 ---
-widget: blank
+widget: accomplishments
 widget_id: Affiliations
 headless: true
-weight: 36
+weight: 35
 title: Memberships
 active: true
+item:
+  - organization: Student Member
+    title: Institute of Electrical and Electronics Engineers (IEEE)
+    url: ''
+    date_start: '2022-08-01'
+    date_end: ''
+    description: ''
+  - organization: Student Member
+    title: Association of Computing Machinery (ACM)
+    url: ''
+    date_start: '2022-08-01'
+    date_end: ''
+    description: ''
+  - organization: Member
+    title: Out In Tech
+    url: ''
+    date_start: '2021-06-01'
+    date_end: ''
+    description: ''
+  - organization: Member
+    title: Rutgers School of Communication & Information Alumni Association
+    url: ''
+    date_start: '2021-01-01'
+    date_end: ''
+    description: ''
+  - organization: Member
+    title: Scrum Alliance
+    url: ''
+    date_start: '2020-03-01'
+    date_end: ''
+    description: ''
+  - organization: Member
+    title: PhUSE
+    url: ''
+    date_start: '2019-04-01'
+    date_end: ''
+    description: ''
+  - organization: Member
+    title: Beta Phi MU, Omicron Chapter
+    url: ''
+    date_start: '2020-04-01'
+    date_end: ''
+    description: ''
+  - organization: Member
+    title: Project Management Institute
+    url: ''
+    date_start: '2018-01-01'
+    date_end: ''
+    description: ''
 design:
   columns: "2"
   background:
 ---
-<dl>
-   <dt>Institute of Electrical and Electronics Engineers (IEEE)</dt>
-  <dd>- Student Member Since Aug 2022</dd>
-  <dt>Association of Computing Machinery (ACM)</dt>
-  <dd>- Student Member Since Aug 2022</dd>
-  <dt>Out IN Tech</dt>
-  <dd>- Member Since Jun 2021</dd>		         
-   <dt>Rutgers School of Communication & Information Alumni Association</dt>
-  <dd>- Member Since Jan 2021</dd>
-   <dt>Scrum Alliance</dt>
-  <dd>- Member Since Mar 2020</dd>
-   <dt>PhUSE</dt>
-  <dd>- Member Since Jan 2019</dd>
-  <dt>Beta Phi Mu, Omicron Chapter</dt>
-  <dd>- Member Since Apr 2019</dd>
-  <dt>  Project Management Institute</dt>
-  <dd>- Member Since Jan 2018</dd>
-</dl>
-
