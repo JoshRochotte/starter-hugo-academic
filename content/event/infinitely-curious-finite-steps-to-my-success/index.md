@@ -10,8 +10,8 @@ location: Medidata Solutions, in Partnership with All Star Code
 date: 2022-07-27T15:00:00.000Z
 date_end: 2022-07-27T16:00:00.000Z
 all_day: false
-event: All Star Code Partner Programming
-event_url: www.allstarcode.com
+## event: All Star Code Partner Programming
+## event_url: www.allstarcode.com
 publishDate: 2022-07-25T14:00:11.379Z
 draft: false
 featured: false
