@@ -21,9 +21,15 @@ item:
   - organization: Member
     title: Out In Tech
     url: ''
-    date_start: '2021-06-01'
+    date_start: '2021-07-01'
     date_end: ''
     description: ''
+  - organization: Member
+    title: New York Academy of Sciences
+    url: ''
+    date_start: '2021-07-01'
+    date_end: ''
+    description: ''    
   - organization: Member
     title: Rutgers School of Communication & Information Alumni Association
     url: ''
@@ -37,17 +43,17 @@ item:
     date_end: ''
     description: ''
   - organization: Member
-    title: PhUSE
+    title: Beta Phi MU, Omicron Chapter
     url: ''
     date_start: '2019-04-01'
     date_end: ''
     description: ''
   - organization: Member
-    title: Beta Phi MU, Omicron Chapter
+    title: PhUSE
     url: ''
-    date_start: '2020-04-01'
+    date_start: '2019-01-01'
     date_end: ''
-    description: ''
+    description: ''    
   - organization: Member
     title: Project Management Institute
     url: ''
