@@ -54,7 +54,7 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-Josh Rochotte is a Ph.D. student in Information Science at the Rutgers University School of Communication and Information. His research interests include Human Centered Data Science, Computational Social Science, Recommendation Algorithms and Motivational Information Systems. Josh is a member of the  Behavioral Informatics Lab, and is advised by Dr. Vivek Singh.
+Josh Rochotte is a Ph.D. student in Information Science at the Rutgers University School of Communication and Information. His research interests include Human Centered Data Science, Computational Social Science, Recommendation Algorithms and Motivational Information Systems. Josh is a member of the  Behavioral Informatics Lab, working at teh intersection of human behavior and information technology, and is advised by Dr. Vivek Singh.
 
 Josh is also a Product Manager at Medidata Solutions, providing AI and ML driven data reconciliation tools to data managers and central monitors in clinical trials.
 
