@@ -9,7 +9,7 @@ location: Medidata Solutions
 date: 2020-08-25T15:00:40.977Z
 date_end: 2020-08-25T17:00:00.000Z
 all_day: false
-event: "Medidata "
+event: "Medidata"
 event_url: Medidata.com
 publishDate: 2022-08-26T14:57:40.996Z
 draft: false
