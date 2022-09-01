@@ -7,6 +7,12 @@ title: Memberships
 active: true
 item:
   - organization: Student Member
+    title: Association for Information Science and Technology (ASIS&T)
+    url: ''
+    date_start: '2022-08-01'
+    date_end: ''
+    description: ''
+  - organization: Student Member
     title: Institute of Electrical and Electronics Engineers (IEEE)
     url: ''
     date_start: '2022-08-01'
