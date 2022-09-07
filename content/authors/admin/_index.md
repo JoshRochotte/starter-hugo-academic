@@ -31,6 +31,11 @@ social:
     link: https://www.linkedin.com/in/joshrochotte
     display:
       header: false
+  - display:
+      header: false
+    link: https://orcid.org/0000-0002-9149-7176
+    icon_pack: ai
+    icon: orcid
 organizations:
   - name: Rutgers University School of Communication and Information
     url: https://www.comminfo.rutgers.edu/
