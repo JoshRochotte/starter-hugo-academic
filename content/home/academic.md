@@ -8,7 +8,7 @@ experience:
     company_logo: rutgers
     location: New Jersey
     date_start: 2022-09-09
-    date_end: 
+    date_end: ""
     description: "Behavioral Informatics Lab Project: Behavior Modification and ACTing out in the Metaverse"
  - title: Teaching Assistant
     company: Rutgers, The State University of New Jersey
