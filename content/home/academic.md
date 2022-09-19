@@ -2,6 +2,14 @@
 widget: experience
 date_format: Jan 2006
 experience:
+  - title: Research Assistant
+    company: Rutgers, The State University of New Jersey
+    company_url: ""
+    company_logo: rutgers
+    location: New Jersey
+    date_start: 2022-09-09
+    date_end: ""
+    description: "Behavioral Informatics Lab working to understand Behavior Modification and ACTing out in the Metaverse"
   - title: Teaching Assistant
     company: Rutgers, The State University of New Jersey
     company_url: ""
