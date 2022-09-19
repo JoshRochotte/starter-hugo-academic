@@ -2,7 +2,7 @@
 widget: experience
 date_format: Jan 2006
 experience:
-  - title: Research Assistant
+  - title: Graduate Research Assistant
     company: Rutgers, The State University of New Jersey
     company_url: ""
     company_logo: rutgers
