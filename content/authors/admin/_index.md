@@ -40,9 +40,9 @@ organizations:
     url: https://www.medidata.com/
 education:
   courses:
-    - course: PhD, Information Science (In Progress)
+    - course: PhD, Information Science
       institution: Rutgers University
-      year: ""
+      year: Expected 2027
     - course: MI, Data Science
       institution: Rutgers University
       year: 2018
@@ -56,7 +56,7 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-Josh Rochotte is a Ph.D. student in Information Science at the Rutgers University School of Communication and Information. His work uses human centered data science approaches to investigate human interaction, wellness and activity while engaging across social media, online gaming and other digital third places. Josh is a member of the Behavioral Informatics Lab, working at the intersection of human behavior and information technology, and is advised by Dr. Vivek Singh.
+Josh Rochotte is a Ph.D. student in Information Science at the Rutgers University School of Communication and Information. His work uses a human centered data science approach to investigate personal wellness and interactions with others across social media, online gaming and other digital third places. Josh is a member of the Behavioral Informatics Lab, working at the intersection of human behavior and information technology, and is advised by Dr. Vivek Singh.
 
 Josh is also a Product Manager at Medidata Solutions, providing comprehensive data and risk surveillance tools to data managers and operational teams in clinical trials. He has spent his professional career working to design and support data capture and analysis systems for use in clinical research.
 
