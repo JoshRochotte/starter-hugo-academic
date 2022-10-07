@@ -56,7 +56,7 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-Josh Rochotte is a Ph.D. student in Information Science at the Rutgers University School of Communication and Information. His work uses demographic, behavioral and network data to investigate human relationships and their activity while engaing in online third places. Josh is a member of the Behavioral Informatics Lab, working at the intersection of human behavior and information technology, and is advised by Dr. Vivek Singh.
+Josh Rochotte is a Ph.D. student in Information Science at the Rutgers University School of Communication and Information. His work uses human centered data science approaches to investigate human interaction, wellness and activity while engaging in online third places. Josh is a member of the Behavioral Informatics Lab, working at the intersection of human behavior and information technology, and is advised by Dr. Vivek Singh.
 
 Josh is also a Product Manager at Medidata Solutions, providing comprehensive data and risk surveillance tools to data managers and operational teams in clinical trials.
 
