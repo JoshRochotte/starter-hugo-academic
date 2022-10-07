@@ -13,13 +13,13 @@ item:
     date_end: ''
     description: ''
   - organization: Student Member
-    title: Institute of Electrical and Electronics Engineers (IEEE)
+    title: Association of Computing Machinery (ACM)
     url: ''
     date_start: '2022-08-01'
     date_end: ''
     description: ''
   - organization: Student Member
-    title: Association of Computing Machinery (ACM)
+    title: Institute of Electrical and Electronics Engineers (IEEE)
     url: ''
     date_start: '2022-08-01'
     date_end: ''
