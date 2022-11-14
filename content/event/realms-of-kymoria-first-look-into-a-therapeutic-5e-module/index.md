@@ -1,5 +1,5 @@
 ---
-title: Realms of Kymoria, First Look Into a Therapeutic 5E Module
+title: "Realms of Kymoria: First Look Into a Therapeutic 5E Module"
 abstract: Welcome to the Realms of Kymoria (RoK), a therapeutic module for
   Dungeons and Dragons 5th Edition!
 location: PAX Unplugged
