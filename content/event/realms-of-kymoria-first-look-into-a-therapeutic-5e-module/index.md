@@ -3,8 +3,8 @@ title: Realms of Kymoria, First Look Into a Therapeutic 5E Module
 abstract: Welcome to the Realms of Kymoria (RoK), a therapeutic module for
   Dungeons and Dragons 5th Edition!
 location: PAX Unplugged
-date: 2022-12-03T18:30:01.171Z
-date_end: 2022-12-03T19:30:00.000Z
+date: 2022-12-03T13:30:01.171Z
+date_end: 2022-12-03T14:30:00.000Z
 all_day: false
 event: Realms of Kymoria, First Look Into a Therapeutic 5E Module
 event_url: PAX Unplugged
