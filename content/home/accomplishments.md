@@ -23,6 +23,7 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
+    
   - certificate_url: https://bcert.me/sehqtkcsi
     date_end: ''
     date_start: '2023-02-17'
@@ -30,6 +31,15 @@ item:
     organization_url: https://www.scrumalliance.org/
     title: Certified Scrum Professional Product Owner
     url: https://bcert.me/sehqtkcsi
+    
+  - certificate_url: ''
+    date_end: ''
+    date_start: '2023-02-01'
+    description: ''
+    organization: Geek Therapeutics
+    organization_url: https://geektherapeutics.com/
+    title: Problematic Gaming Specialist
+    url: https://geektherapeutics.com/
     
   - certificate_url: https://education.geektherapeutics.com/certificates/o1pek0m9ua
     date_end: ''
