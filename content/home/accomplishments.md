@@ -32,7 +32,7 @@ item:
     title: Certified Scrum Professional Product Owner
     url: https://bcert.me/sehqtkcsi
     
-  - certificate_url: ''
+  - certificate_url: https://education.geektherapeutics.com/certificates/ra2n3gfuon
     date_end: ''
     date_start: '2023-02-01'
     description: ''
