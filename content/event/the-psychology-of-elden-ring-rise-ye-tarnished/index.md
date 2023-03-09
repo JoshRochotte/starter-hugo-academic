@@ -3,8 +3,8 @@ title: "The Psychology of Elden Ring: Rise Ye Tarnished"
 abstract: Come sit with us around the fire and let us talk about how Elden Ring
   is more than meets the eye.
 location: PAX East
-date: 2023-03-25T21:30:00.000Z
-date_end: 2023-03-25T22:30:00.000Z
+date: 2023-03-25T17:30:00.000Z
+date_end: 2023-03-25T18:30:00.000Z
 all_day: false
 event: "The Psychology of Elden Ring: Rise Ye Tarnished"
 event_url: PAX East
