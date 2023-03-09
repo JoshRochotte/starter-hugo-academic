@@ -5,6 +5,7 @@ avatar_filename: avatar.png
 bio: Computational Social Scientist - AI/ML Product Manager - Therapeutic Game
   Master - Certified Nerd - Infinitely Curious
 interests:
+  - Behavioral Informatics
   - Human Centered Data Science
   - Computational Social Science
   - Recommendation Systems
