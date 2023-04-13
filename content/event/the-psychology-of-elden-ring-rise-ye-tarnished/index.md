@@ -12,7 +12,7 @@ publishDate: 2023-03-09T04:44:49.172Z
 draft: false
 featured: false
 image:
-  filename: featured
+  filename: panel-talk-me.jpeg
   focal_point: Smart
   preview_only: false
 ---
