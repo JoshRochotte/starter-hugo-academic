@@ -9,7 +9,7 @@ experience:
     location: New York
     date_start: 2022-04-01
     date_end: ""
-    description: " I actively support the cross-functional development activities for Medidata Detect, an end-to-end data and risk surveillance platform, which provides cross-functional operational teams the ability to monitor and mitigate risks to patient safety and data integrity."
+    description: "Drives long term, detailed roadmaps and authors product requirements documents (PRDs) for clinical data management and data science applications. Support product owners and remote teams across east and west coast US, as well as in India."
   - title: Product Manager, Digital Oversight
     company: Medidata Solutions
     company_url: ""
@@ -17,7 +17,7 @@ experience:
     location: New York
     date_start: 2021-03-01
     date_end: 2022-04-01
-    description: "Promoted to my current role within 12 months because of top performance and strong organizational impact, I support product owners and teams across east and west coast US, as well as in India. I lead and drive a platform of AI/ML driven data and risk surveillance technology products used by clinical trial teams to monitor clinical trials. 
+    description: "Promoted within 12 months because of top performance and strong organizational impact, I support product owners and teams across east and west coast US, as well as in India. I lead and drive a platform of AI/ML driven data and risk surveillance technology products used by clinical trial teams to monitor clinical trials. 
 <br>
 Select Highlights
 <br>
