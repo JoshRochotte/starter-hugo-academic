@@ -9,7 +9,7 @@ experience:
     location: New Jersey
     date_start: 2022-09-09
     date_end: ""
-    description: "Behavioral Informatics Lab working to understand Behavior Modification and ACTing out in the Metaverse"
+    description: "Behavioral Informatics Lab working on projects including Depression Detection using Log Data and ACTing out in the Metaverse."
   - title: Teaching Assistant
     company: Rutgers, The State University of New Jersey
     company_url: ""
