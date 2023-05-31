@@ -59,4 +59,4 @@ Josh Rochotte is a Ph.D. student in Information Science at the Rutgers Universit
 
 Josh is also a Product Manager at Medidata Solutions, providing comprehensive data and risk surveillance tools to data managers and operational teams in clinical trials. He has spent his professional career working to design and support data capture and analysis systems for use in clinical research.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Josh_Resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Josh_Resume.pdf" "newtab" >}}resumé{{< /staticref >}} or my {{< staticref "uploads/Joshua Rochotte CV 2023.pdf" "newtab" >}} CV{{< /staticref >}}.
