@@ -11,7 +11,7 @@ interests:
   - Persuasive Design
   - Digital Therapeutics
   - Homophily & Heterophily
-  - Motivational Information Systems
+  - Gamification
   - Product Management
   - AI & Machine Learning
 social:
