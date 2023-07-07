@@ -2,14 +2,14 @@
 title: Josh Rochotte
 role: Ph.D. Student in Information Science
 avatar_filename: avatar.png
-bio: Computational Social Scientist - AI/ML Product Manager - Therapeutic Game
+bio: Behavioral Informaticist - AI/ML Product Manager - Therapeutic Game
   Master - Certified Nerd - Infinitely Curious
 interests:
   - Behavioral Informatics
   - Human Centered Data Science
   - Computational Social Science
   - Persuasive Design
-  - Coopetition
+  - Digital Therapeutics
   - Homophily & Heterophily
   - Motivational Information Systems
   - Product Management
