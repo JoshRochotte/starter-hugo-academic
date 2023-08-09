@@ -2,6 +2,14 @@
 widget: experience
 date_format: Jan 2006
 experience:
+  - title: Graduate Assistant
+    company: Computational Social Science Lab @ Rutgers, The State University of New Jersey
+    company_url: ""
+    company_logo: rutgers
+    location: New Jersey
+    date_start: 2022-09-09
+    date_end: ""
+    description: "Responsibilities include organization, recruitment, running and organizing events, maintaining social media presence for the lab and collaborating on research projects"
   - title: Graduate Research Assistant
     company: Rutgers, The State University of New Jersey
     company_url: ""
