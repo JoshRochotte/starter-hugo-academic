@@ -1,5 +1,5 @@
 ---
-active: false
+active: true
 draft: true
 widget: pages
 widget_id: publications
