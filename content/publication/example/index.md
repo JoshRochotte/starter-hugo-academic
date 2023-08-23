@@ -16,7 +16,7 @@ abstract: The world of Elden Ring is vast and merciless, and you as Tarnished
   order. Can you survive this wild world of the Lands Between alone or do you
   need to call in backup?
 draft: false
-featured: true
+featured: false
 projects: []
 slides: ""
 url_pdf: ""
