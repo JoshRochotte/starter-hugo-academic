@@ -2,7 +2,15 @@
 widget: experience
 date_format: Jan 2006
 experience:
-  - title: Graduate Assistant
+  - title: Honors College Graduate Mentor
+    company: Honors College @ Rutgers, The State University of New Jersey
+    company_url: ""
+    company_logo: rutgers
+    location: New Jersey
+    date_start: 2023-09-09
+    date_end: ""
+    description: "Honors College Graduate Mentors provide mentorship within their academic area of expertise regarding topics such as writing personal statements for graduate school applications, how to get involved in research, coaching on presenting academic research, and more. Graduate Mentors are available through office hours as well as signature events, giving Honors College undergraduates a rich resource and support network within their academic disciplines."
+  - title: Graduate Research Assistant
     company: Computational Social Science Lab @ Rutgers, The State University of New Jersey
     company_url: ""
     company_logo: rutgers
@@ -10,6 +18,14 @@ experience:
     date_start: 2023-09-09
     date_end: ""
     description: "Responsibilities include organization, recruitment, running and organizing events, maintaining social media presence for the lab and collaborating on research projects"
+  - title: Instructional Assistant
+    company: Rutgers, The State University of New Jersey
+    company_url: ""
+    company_logo: rutgers
+    location: New Jersey
+    date_start: 2023-09-09
+    date_end: ""
+    description: "Fundamentals of Data Curation and Management"
   - title: Graduate Research Assistant
     company: Behavioral Informatics Lab @ Rutgers, The State University of New Jersey
     company_url: ""
