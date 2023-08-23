@@ -1,6 +1,7 @@
 ---
 title: Can You Afford To Go The Road Alone? Autonomy And Choice In The Lands Between
-subtitle: Chapter in Arise Now, Ye Tarnished - The Psychology of Elden Ring
+subtitle: Chapter in Arise Now, Ye Tarnished - The Psychology of Elden Ring (pp.
+  68-86) Edited by Anthony M Bean, Ph.D.
 publication_types:
   - "6"
 authors:
