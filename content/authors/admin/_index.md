@@ -17,7 +17,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: /#contact
+    link: https://docs.google.com/presentation/d/1OhD2i_Jc_0svnIsmipWP2tH7ffumTebR/editusp=sharing&ouid=101905504398464741863&rtpof=true&sd=true
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/joshRochotte
