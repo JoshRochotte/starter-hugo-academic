@@ -2,6 +2,20 @@
 widget: experience
 date_format: Jan 2006
 experience:
+  - title: Instructional Assistant
+    company: Rutgers, The State University of New Jersey
+    company_url: ""
+    company_logo: rutgers
+    location: New Jersey
+    date_start: 2023-09-09
+    date_end: ""
+    description: " Instructional Assistant providing in class support, grading and office hours for the following courses
+
+Fundamentals of Data Curation and Management: Fall 2023 semester
+
+Fundamentals of Data Curation and Management: Spring 2024 semester
+
+Management of Technological Organizations: Spring 202"
   - title: Honors College Graduate Mentor
     company: Honors College @ Rutgers, The State University of New Jersey
     company_url: ""
@@ -18,14 +32,6 @@ experience:
     date_start: 2023-09-09
     date_end: ""
     description: "Responsibilities include organization, recruitment, running and organizing events, maintaining social media presence for the lab and collaborating on research projects"
-  - title: Instructional Assistant
-    company: Rutgers, The State University of New Jersey
-    company_url: ""
-    company_logo: rutgers
-    location: New Jersey
-    date_start: 2023-09-09
-    date_end: ""
-    description: "Fundamentals of Data Curation and Management"
   - title: Graduate Research Assistant
     company: Behavioral Informatics Lab @ Rutgers, The State University of New Jersey
     company_url: ""
