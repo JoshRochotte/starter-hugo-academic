@@ -10,9 +10,12 @@ experience:
     date_start: 2023-09-09
     date_end: ""
     description: " Instructional Assistant providing in class support, grading and office hours for the following courses:
-    /Fundamentals of Data Curation and Management: Fall 2023 semester
-    /Fundamentals of Data Curation and Management: Spring 2024 semester
-    /Management of Technological Organizations: Spring 2024"
+    /
+    Fundamentals of Data Curation and Management: Fall 2023 semester
+    /
+    Fundamentals of Data Curation and Management: Spring 2024 semester
+    /
+    Management of Technological Organizations: Spring 2024"
   - title: Honors College Graduate Mentor
     company: Honors College @ Rutgers, The State University of New Jersey
     company_url: ""
