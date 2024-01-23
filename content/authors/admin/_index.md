@@ -55,7 +55,7 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-Josh Rochotte is a Ph.D. student in Information Science at the Rutgers University School of Communication and Information. His research takes a human centered data science approach to investigate personal wellness and interactions with others across digital third places. His current work examines Metamood and sensor driven persuasive design to facilitate learning and personal growth. Josh is a member of the Computational Social Science Lab and the Behavioral Informatics Lab, working at the intersection of human behavior and information technology, and is advised by Dr. Vivek Singh.
+Josh Rochotte is a Ph.D. student in Information Science at the Rutgers University School of Communication and Information. His research takes a human centered data science approach to investigate personal wellness and interactions with others across digital third places. His current work examines the use of digital trace data as predictors of anxiety, combining advanced machine learning techniques with clincially validated psychological measures. Josh is a member of the Computational Social Science Lab and the Behavioral Informatics Lab, working at the intersection of human behavior and information technology, and is advised by Dr. Vivek K. Singh.
 
 Josh is also a Product Manager at Medidata Solutions, providing comprehensive data and risk surveillance tools to data managers and operational teams in clinical trials. He has spent his professional career working to design and support data capture and analysis systems for use in clinical research.
 
