@@ -2,6 +2,14 @@
 widget: experience
 date_format: Jan 2006
 experience:
+  - title: Graduate Research Assistant
+    company: Behavioral Informatics Lab @ Rutgers, The State University of New Jersey
+    company_url: ""
+    company_logo: rutgers
+    location: New Jersey
+    date_start: 2022-09-09
+    date_end: ""
+    description: "Running Lab Social Media, outreach activities and engagements.<br> Active research projects include Depression Detection using Log Data, Personal Device Reminders for Anxiety Management, and ACTing out in the Metaverse."
   - title: Instructional Assistant
     company: Rutgers, The State University of New Jersey
     company_url: ""
@@ -30,16 +38,8 @@ experience:
     company_logo: rutgers
     location: New Jersey
     date_start: 2023-09-09
-    date_end: ""
+    date_end: 2024-01-01
     description: "Responsibilities include organization, recruitment, running and organizing events, maintaining social media presence for the lab and collaborating on research projects"
-  - title: Graduate Research Assistant
-    company: Behavioral Informatics Lab @ Rutgers, The State University of New Jersey
-    company_url: ""
-    company_logo: rutgers
-    location: New Jersey
-    date_start: 2022-09-09
-    date_end: ""
-    description: "Research projects include Depression Detection using Log Data and ACTing out in the Metaverse."
   - title: Teaching Assistant
     company: Rutgers, The State University of New Jersey
     company_url: ""
