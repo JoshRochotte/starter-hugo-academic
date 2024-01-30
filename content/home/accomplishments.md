@@ -41,7 +41,7 @@ item:
     title: Problematic Gaming Specialist
     url: https://geektherapeutics.com/
 
-- certificate_url: https://www.citiprogram.org/verify/?w9a535585-98af-4b08-836e-0c5d938264dc-51368088
+ - certificate_url: https://www.citiprogram.org/verify/?w9a535585-98af-4b08-836e-0c5d938264dc-51368088
     date_end: ''
     date_start: '2022-09-17'
     organization: CITI Program
