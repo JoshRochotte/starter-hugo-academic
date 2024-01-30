@@ -23,7 +23,7 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-    
+
   - certificate_url: https://bcert.me/sehqtkcsi
     date_end: ''
     date_start: '2023-02-17'
@@ -40,6 +40,14 @@ item:
     organization_url: https://geektherapeutics.com/
     title: Problematic Gaming Specialist
     url: https://geektherapeutics.com/
+
+- certificate_url: https://www.citiprogram.org/verify/?w9a535585-98af-4b08-836e-0c5d938264dc-51368088
+    date_end: ''
+    date_start: '2022-09-17'
+    organization: CITI Program
+    organization_url: https://www.citiprogram.org/
+    title: Social/Behavioral/Epidemiologic Research Investigators
+    url: https://www.citiprogram.org/verify/?w9a535585-98af-4b08-836e-0c5d938264dc-51368088
     
   - certificate_url: https://education.geektherapeutics.com/certificates/o1pek0m9ua
     date_end: ''
