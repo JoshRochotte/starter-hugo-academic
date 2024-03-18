@@ -10,7 +10,7 @@ authors:
 author_notes: []
 doi: 10.1016/j.etdah.2024.100145
 publication: "Emerging Trends in Drugs, Addictions, and Health(Special Issue:
-  Social Media Trends and offline Behavioral correlates))"
+  Social Media Trends and offline Behavioral correlates)"
 publication_short: ""
 abstract: "Anxiety is a widespread and serious mental health issue that has been
   exacerbated by the COVID-19 pandemic and other stressors. In this study, we
