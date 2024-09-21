@@ -9,7 +9,7 @@ experience:
     location: New York
     date_start: 2022-04-01
     date_end: ""
-    description: "Drives long term, detailed roadmaps and authors product requirements documents (PRDs) for clinical data management and data science applications. Support product owners and remote teams across east and west coast US, as well as in India."
+    description: "Drives long term, detailed roadmaps and authors product requirements documents (PRDs) for Medidata's Clinical Data Studio, with direct ownership of the Patient Profiles, Key Risk Indicators, Quality Tolerance Limit's and Self Serve Visualizations. Support product owners and remote teams across east and west coast US, as well as in India."
   - title: Product Manager, Digital Oversight
     company: Medidata Solutions
     company_url: ""
