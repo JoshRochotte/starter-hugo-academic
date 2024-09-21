@@ -1,9 +1,13 @@
 ---
 title: Smart Algorithms Smarter Drugs
 abstract: >-
-  Smart Algorithms Smarter Drugs
-
-  Join us for an evening of exploration on how Artificial Intelligence is revolutionizing drug discovery and development. Learn new career pathways in this domain ! Scientific teams can leverage digital techniques to accelerate the drug discovery process and reduce costs. AI has the potential to transform how we approach the discovery and development process. Attendees will have the opportunity to learn from panelists on their perspective on the industry topic and expand their reach within this domain.
+  Join us for an evening of exploration on how Artificial Intelligence is
+  revolutionizing drug discovery and development. Learn new career pathways in
+  this domain ! Scientific teams can leverage digital techniques to accelerate
+  the drug discovery process and reduce costs. AI has the potential to transform
+  how we approach the discovery and development process. Attendees will have the
+  opportunity to learn from panelists on their perspective on the industry topic
+  and expand their reach within this domain.
 
 
   Learning Objectives
