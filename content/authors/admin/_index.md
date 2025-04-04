@@ -5,14 +5,7 @@ avatar_filename: avatar.png
 bio: Behavioral Informaticist - AI/ML Product Manager - Therapeutic Game
   Master - Certified Nerd - Infinitely Curious
 interests:
-  - Computational Social Science
-  - Behavioral Informatics
-  - Human Centered Data Science
-  - Mental Health in the Digital Age
-  - Digital Therapeutics
-  - Homophily & Heterophily
-  - Gamification
-  - Product Management
+
 social:
   - icon: envelope
     icon_pack: fas
