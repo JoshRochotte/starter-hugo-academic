@@ -16,7 +16,7 @@ experience:
     company_logo: rutgers
     location: New Jersey
     date_start: 2023-09-09
-    date_end: ""
+    date_end: "2024-05-02"
     description: " Instructional Assistant providing in class support, grading and office hours for the following courses:
     <br>
     Management of Technological Organizations: Spring 2024 semester
@@ -30,7 +30,7 @@ experience:
     company_logo: rutgers
     location: New Jersey
     date_start: 2023-09-09
-    date_end: ""
+    date_end: "2024-05-02"
     description: "Honors College Graduate Mentors provide mentorship within their academic area of expertise regarding topics such as writing personal statements for graduate school applications, how to get involved in research, coaching on presenting academic research, and more. Graduate Mentors are available through office hours as well as signature events, giving Honors College undergraduates a rich resource and support network within their academic disciplines."
   - title: Graduate Research Assistant
     company: Computational Social Science Lab @ Rutgers, The State University of New Jersey
