@@ -10,7 +10,7 @@ interests:
   - Human Centered Data Science
   - Mental Health in the Digital Age
   - Digital Therapeutics
-  - Homophily & Heterophily
+  - Homophily and Heterophily
   - Gamification
   - Product Management
 social:
