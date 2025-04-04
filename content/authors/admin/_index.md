@@ -5,15 +5,14 @@ avatar_filename: avatar.png
 bio: Behavioral Informaticist - AI/ML Product Manager - Therapeutic Game
   Master - Certified Nerd - Infinitely Curious
 interests:
+  - Computational Social Science
   - Behavioral Informatics
   - Human Centered Data Science
-  - Computational Social Science
-  - Persuasive Design
+  - Mental Health in the Digital Age
   - Digital Therapeutics
   - Homophily & Heterophily
   - Gamification
   - Product Management
-  - AI & Machine Learning
 social:
   - icon: envelope
     icon_pack: fas
@@ -41,7 +40,7 @@ education:
   courses:
     - course: PhD, Information Science
       institution: Rutgers University
-      year: Expected 2027
+      year: Expected 2029
     - course: MI, Data Science
       institution: Rutgers University
       year: 2018
@@ -55,8 +54,8 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-Josh Rochotte is a Ph.D. student in Information Science at the Rutgers University School of Communication and Information. His research takes a human centered data science approach to investigate personal wellness and interactions with others across digital third places. His current work examines the use of digital trace data as predictors of anxiety, combining advanced machine learning techniques with clincially validated psychological measures. Josh is a member of the Computational Social Science Lab and the Behavioral Informatics Lab, working at the intersection of human behavior and information technology, and is advised by Dr. Vivek K. Singh.
+Hello There! My name is Josh Rochotte and I am a Ph.D. student in Information Science at the Rutgers University School of Communication and Information. My research focus centers on understanding and supporting personal and community wellness in our interactions with others across digital third places. My previous work examined the use of digital trace data as predictors of anxiety, combining advanced machine learning techniques with clincially validated psychological measures. I am currently a member of the Computational Social Science Lab and the Behavioral Informatics Lab, working at the intersection of human behavior and information technology.
 
-Josh is also a Product Manager at Medidata Solutions, providing comprehensive data and risk surveillance tools to data managers and operational teams in clinical trials. He has spent his professional career working to design and support data capture and analysis systems for use in clinical research.
+I am also a Product Manager at Medidata Solutions, providing comprehensive data and risk surveillance tools to data managers and operational teams in clinical trials. I have spent my professional career working to design and support data capture and analysis systems for use in clinical research, and the users who work in those systems.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Josh_Resume.pdf" "newtab" >}}resumé{{< /staticref >}} or my {{< staticref "uploads/Joshua Rochotte CV 2023.pdf" "newtab" >}}CV{{< /staticref >}}.
