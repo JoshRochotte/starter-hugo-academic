@@ -6,7 +6,7 @@ draft: false
 share: false
 profile: false
 image:
-  filename: Campfire.png
+  filename: Campfire.jpg
   focal_point: Smart
   preview_only: false
 ---
