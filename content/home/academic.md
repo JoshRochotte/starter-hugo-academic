@@ -2,6 +2,16 @@
 widget: experience
 date_format: Jan 2006
 experience:
+  - title: Teaching Assistant
+    company: Rutgers, The State University of New Jersey
+    company_url: ""
+    company_logo: rutgers
+    location: New Jersey
+    date_start: 2026-06-01
+    date_end: ""
+    description: "Instructional Assistant providing in class support, grading and office hours for the following courses:
+    <br>
+    Fundamentals of Data Curation and Management: Summer 2026 semester"
   - title: Graduate Research Assistant
     company: Behavioral Informatics Lab @ Rutgers, The State University of New Jersey
     company_url: ""
@@ -17,7 +27,7 @@ experience:
     location: New Jersey
     date_start: 2023-09-09
     date_end: "2024-05-02"
-    description: " Instructional Assistant providing in class support, grading and office hours for the following courses:
+    description: "Instructional Assistant providing in class support, grading and office hours for the following courses:
     <br>
     Management of Technological Organizations: Spring 2024 semester
     <br>
