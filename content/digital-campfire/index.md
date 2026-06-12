@@ -5,6 +5,10 @@ date: 2026-06-05
 draft: false
 share: false
 profile: false
+image:
+  filename: Campfire.png
+  focal_point: Smart
+  preview_only: false
 ---
 
 Digital campfires are the intentional gathering spaces people build around shared stories, rituals, play, and mutual support. They can appear in tabletop campaigns, online communities, games, Discord servers, livestream chats, learning cohorts, or other digital third places where people return because the space feels socially meaningful.
